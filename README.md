@@ -1,16 +1,16 @@
-# 🍕 Pizza Sales SQL Analysis
+#  Pizza Sales SQL Analysis
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes a pizza sales dataset using SQL. It covers SQL concepts from beginner to advanced, including joins, aggregations, subqueries, CTEs, and window functions.
 
-## 📂 Repository Structure
+##  Repository Structure
 
 - pizza_sales_analysis_questions.md
 - basic_queries.sql
 - intermediate_queries.sql
 - advanced_queries.sql
 
-## 🛠️ Skills Used
+##  Skills Used
 
 - SQL
 - MySQL
@@ -21,7 +21,7 @@ This project analyzes a pizza sales dataset using SQL. It covers SQL concepts fr
 - CTEs
 - Window Functions
 
-## 📊 Dataset
+##  Dataset
 
 The project uses a pizza sales dataset containing:
 - Orders
@@ -29,7 +29,7 @@ The project uses a pizza sales dataset containing:
 - Pizzas
 - Pizza Types
 
-## 🚀 Topics Covered
+##  Topics Covered
 
 ### Basic
 - Aggregate Functions
